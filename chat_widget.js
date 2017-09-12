@@ -1,4 +1,3 @@
-<script>
     ! function(t, e) {
         "object" == typeof exports && "object" == typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define("IBMChat", [], e) : "object" == typeof exports ? exports.IBMChat = e() : t.IBMChat = e()
     }(this, function() {
@@ -1633,9 +1632,9 @@
                     accentText: "#ffffff",
                     text: "#ffffff",
                     link: "#AF6EE8",
-                    secondaryBackground: "rgba(90, 90, 90, 1)",
+                    secondaryBackground: "rgba(238,65,35, 1)",
                     secondaryText: "rgba(247, 247, 247, 1)",
-                    inputBackground: "rgba(90, 90, 90, 1)",
+                    inputBackground: "rgba(238,65,35, 1)",
                     inputText: "rgba(247, 247, 247, 1)",
                     errorBackground: "#e86e6e",
                     errorText: "#ffffff",
@@ -4487,4 +4486,3 @@
         }, function(t, e) {}]))
     });
     //# sourceMappingURL=chat.min.js.map
-</script>
